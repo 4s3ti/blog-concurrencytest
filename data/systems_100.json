@@ -1,0 +1,1004 @@
+{
+  "items": [
+    {
+      "id": "a3493d97-6a8d-4aaa-8400-15929b7976a9",
+      "name": "system0",
+      "region": "eu-north-1",
+      "state": "RESUME_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system0.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "433c7a2d-5f22-46c7-acf1-d5824b5a6e4a",
+      "name": "system1",
+      "region": "eu-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system1.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "af7bd66b-1bf6-4d9e-959c-d31cd9416dca",
+      "name": "system2",
+      "region": "eu-west-1",
+      "state": "PAUSED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system2.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "0199ada2-ae0a-451f-aa95-ce2fda395e49",
+      "name": "system3",
+      "region": "eu-north-1",
+      "state": "FOO_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system3.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "97ef9da0-36a4-4e6e-a121-e4c36e976ab4",
+      "name": "system4",
+      "region": "eu-west-2",
+      "state": "RESUME_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system4.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "001d53e7-5c18-4172-b9b1-4427ebe046e3",
+      "name": "system5",
+      "region": "us-west-1",
+      "state": "RESUME_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system5.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "939bd050-549f-4715-947f-77368930b058",
+      "name": "system6",
+      "region": "eu-north-1",
+      "state": "READY",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system6.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "091e81a1-f8eb-4360-a4b0-8427898a6ea1",
+      "name": "system7",
+      "region": "eu-north-1",
+      "state": "READY",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system7.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "d792565e-c9be-496a-aeb5-e216fa845b05",
+      "name": "system8",
+      "region": "eu-west-2",
+      "state": "RESUME_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system8.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "811c782a-5221-4097-8913-3386b050e895",
+      "name": "system9",
+      "region": "us-west-1",
+      "state": "PAUSED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system9.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "9fbf7ff1-ee1f-4408-bd40-ba8088f9b349",
+      "name": "system10",
+      "region": "eu-north-1",
+      "state": "RESUME_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system10.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "7c791597-80e5-4fef-9a23-14c55c51c02f",
+      "name": "system11",
+      "region": "eu-west-2",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system11.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "8ce2f217-cee2-4e49-9de0-1f7964d5b514",
+      "name": "system12",
+      "region": "eu-west-2",
+      "state": "READY",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system12.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "91435ac4-03d0-4473-a846-58fe4bcf08e2",
+      "name": "system13",
+      "region": "us-west-1",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system13.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "95f480bf-7b2e-4c4c-8615-143d37905fe3",
+      "name": "system14",
+      "region": "eu-west-2",
+      "state": "FOO_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system14.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "d951fa9a-b9b3-49aa-be6b-a610e0967160",
+      "name": "system15",
+      "region": "eu-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system15.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "d6e8c83e-aa84-47fa-bfd2-482a09cbbab3",
+      "name": "system16",
+      "region": "us-west-1",
+      "state": "PAUSED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system16.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "1e8150f7-5878-4b80-aca2-b40e823f26a2",
+      "name": "system17",
+      "region": "eu-west-2",
+      "state": "FOO_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system17.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "f977a3fd-77c8-4a6d-a053-923c669ee867",
+      "name": "system18",
+      "region": "eu-west-2",
+      "state": "PAUSED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system18.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "2a558bfc-6f94-43d0-8af3-dd84333860a9",
+      "name": "system19",
+      "region": "us-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system19.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "32ace62d-439b-4d8a-b4f1-43aa24cf04f2",
+      "name": "system20",
+      "region": "eu-north-1",
+      "state": "FOO_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system20.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "50967d20-164a-4473-9992-ec5fbfd4f308",
+      "name": "system21",
+      "region": "eu-west-2",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system21.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "65287669-6779-44d5-8f09-9333bfd1ce0a",
+      "name": "system22",
+      "region": "us-west-1",
+      "state": "READY",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system22.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "d2d11c7f-2779-4be9-ac2f-8f98d062604d",
+      "name": "system23",
+      "region": "eu-north-1",
+      "state": "PAUSED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system23.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "b0c4bbb0-1b46-422a-8a49-339443c94369",
+      "name": "system24",
+      "region": "eu-west-2",
+      "state": "PAUSED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system24.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "3d981bb2-4744-47c5-beab-427446e2b6db",
+      "name": "system25",
+      "region": "us-west-1",
+      "state": "READY",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system25.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "47e9f342-92b7-4dd1-ac9e-4ea26464bb3b",
+      "name": "system26",
+      "region": "us-west-1",
+      "state": "READY",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system26.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "4db4ed97-5eb0-43e4-a93f-6e11016c77a8",
+      "name": "system27",
+      "region": "eu-west-2",
+      "state": "RESUME_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system27.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "eab4e073-bf8d-4839-abb4-ef47ac8d1f94",
+      "name": "system28",
+      "region": "us-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system28.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "d014a4a9-160c-4460-b4f7-237ed739b709",
+      "name": "system29",
+      "region": "eu-west-2",
+      "state": "PAUSED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system29.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "63f1e7c8-0eb7-41be-b396-4731854ae08a",
+      "name": "system30",
+      "region": "eu-west-2",
+      "state": "READY",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system30.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "caa78936-efe6-485d-8890-fa5621bd10e8",
+      "name": "system31",
+      "region": "eu-west-1",
+      "state": "PAUSED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system31.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "449009da-98bb-4334-b60c-f5b55c6a33c8",
+      "name": "system32",
+      "region": "eu-west-1",
+      "state": "PAUSED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system32.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "6f52bf9b-e9ec-4c3e-a62f-0933c88a1e57",
+      "name": "system33",
+      "region": "us-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system33.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "5b3686cf-d6da-47fd-950c-8ba077ae183f",
+      "name": "system34",
+      "region": "eu-west-2",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system34.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "319a3fcd-5ff7-4ed0-9ee6-5abd3656fedb",
+      "name": "system35",
+      "region": "us-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system35.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "6c9eb9e2-c7ea-41f5-aa80-6ea42ca63849",
+      "name": "system36",
+      "region": "eu-west-2",
+      "state": "READY",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system36.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "1ba759dd-d122-48be-9054-83a4770748cb",
+      "name": "system37",
+      "region": "eu-north-1",
+      "state": "PLAN_FAILED",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system37.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "e9d7612e-2f43-42de-9287-d4d2883040a2",
+      "name": "system38",
+      "region": "eu-west-2",
+      "state": "READY",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system38.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "bff897f4-57ce-465c-9892-0a2302b72ed0",
+      "name": "system39",
+      "region": "eu-west-2",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system39.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "8e69ca99-e229-49fd-bc98-fa3d2b299b80",
+      "name": "system40",
+      "region": "eu-north-1",
+      "state": "FOO_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system40.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "e9efb053-52c2-452d-9450-28b610703c2f",
+      "name": "system41",
+      "region": "eu-west-2",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system41.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "7be673ee-875b-4645-bd3b-094d4da4ad25",
+      "name": "system42",
+      "region": "us-west-1",
+      "state": "PAUSED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system42.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "ffcc203a-2d05-4ed3-b499-7b382c8bc204",
+      "name": "system43",
+      "region": "eu-north-1",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system43.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "4cdbea85-0141-4b9a-b4a5-31a1221410a6",
+      "name": "system44",
+      "region": "us-west-1",
+      "state": "PAUSED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system44.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "0413ffa6-93a3-489d-9ee3-2cef36e76beb",
+      "name": "system45",
+      "region": "eu-west-2",
+      "state": "PLAN_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system45.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "dd83ee26-65cf-4e53-8bd3-77aba5638793",
+      "name": "system46",
+      "region": "eu-west-1",
+      "state": "PAUSED",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system46.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "e8603f8b-34be-4f64-b22f-d4968ccc59fe",
+      "name": "system47",
+      "region": "eu-west-2",
+      "state": "PAUSED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system47.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "e858bbfd-90fa-4676-b5d4-60ac88ca51a1",
+      "name": "system48",
+      "region": "us-west-1",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system48.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "1fe96ac9-cb1e-4416-bad6-9e994c7ff315",
+      "name": "system49",
+      "region": "us-west-1",
+      "state": "RESUME_FAILED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system49.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "e9257eef-0b7f-4c2c-a8fb-9a9662d92a51",
+      "name": "system50",
+      "region": "eu-west-1",
+      "state": "READY",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system50.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "41afb75a-5fc9-44c2-a75a-789b310980a3",
+      "name": "system51",
+      "region": "us-west-1",
+      "state": "READY",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system51.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "2bf6a246-16ae-4a36-9387-2f8a38ea5d80",
+      "name": "system52",
+      "region": "eu-west-1",
+      "state": "FOO_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system52.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "cadf0f9a-20c9-4c57-bf46-f8e23a593f8e",
+      "name": "system53",
+      "region": "eu-west-2",
+      "state": "PLAN_FAILED",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system53.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "227d7cef-7166-4fa8-abba-a8627ab5e9bc",
+      "name": "system54",
+      "region": "eu-west-1",
+      "state": "RESUME_FAILED",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system54.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "97e4155c-210d-4617-be22-e03e423ba343",
+      "name": "system55",
+      "region": "eu-north-1",
+      "state": "READY",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system55.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "8ab7d561-cb35-489e-bfa9-c17883162d03",
+      "name": "system56",
+      "region": "eu-north-1",
+      "state": "RESUME_FAILED",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system56.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "1522c2f3-42c9-4f1b-a263-8fcfacbd07bb",
+      "name": "system57",
+      "region": "us-west-1",
+      "state": "FOO_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system57.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "e4db104e-2ccb-4d5b-bd2a-9c2681ea8bad",
+      "name": "system58",
+      "region": "eu-north-1",
+      "state": "FOO_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system58.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "4ee45f01-356f-42c7-bd8e-91fa102e5bec",
+      "name": "system59",
+      "region": "eu-west-1",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system59.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "847cda68-cac9-4d2e-886d-de2d907ba79f",
+      "name": "system60",
+      "region": "eu-west-2",
+      "state": "READY",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system60.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "a1fc5164-e26b-4868-b33d-70eef8647a73",
+      "name": "system61",
+      "region": "us-west-1",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system61.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "0392ca17-d9a4-49d2-80fc-d9f8f67b2e48",
+      "name": "system62",
+      "region": "eu-west-1",
+      "state": "FOO_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system62.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "5921575b-2751-4b5e-8f36-31795503cf3e",
+      "name": "system63",
+      "region": "eu-north-1",
+      "state": "READY",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system63.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "5a108451-b075-43f6-b8c6-2243ffe18d4b",
+      "name": "system64",
+      "region": "eu-west-2",
+      "state": "READY",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system64.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "d2f9af94-92cb-4e36-9aed-725d4d9b3be1",
+      "name": "system65",
+      "region": "us-west-1",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system65.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "2478ffb6-9079-458e-bba3-237a91754525",
+      "name": "system66",
+      "region": "us-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system66.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "9e5877e3-875c-4987-91bc-a3db63d52bc9",
+      "name": "system67",
+      "region": "eu-north-1",
+      "state": "PLAN_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system67.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "6080bb1d-068f-4dd0-93bf-8809610493fb",
+      "name": "system68",
+      "region": "us-west-1",
+      "state": "PAUSED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system68.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "db0130dd-815e-4a3a-b6c6-94f311d38126",
+      "name": "system69",
+      "region": "eu-north-1",
+      "state": "RESUME_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system69.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "5b75c138-b3ed-4f8e-82de-9bfbba773b6b",
+      "name": "system70",
+      "region": "eu-west-1",
+      "state": "READY",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system70.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "3e571cf7-4ec4-4fac-9676-c71c39af39ad",
+      "name": "system71",
+      "region": "eu-north-1",
+      "state": "RESUME_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system71.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "132a851f-b118-400a-a27f-90cdfe5581f6",
+      "name": "system72",
+      "region": "eu-west-2",
+      "state": "PAUSED",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system72.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "da43f5a3-3f01-4a6e-8d50-583388a189e6",
+      "name": "system73",
+      "region": "eu-west-1",
+      "state": "FOO_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system73.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "f3ff477a-c909-4d09-863d-1284c220e23b",
+      "name": "system74",
+      "region": "eu-west-1",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system74.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "be964b13-09b7-4ef9-9b2f-87803c717cab",
+      "name": "system75",
+      "region": "us-west-1",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system75.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "070befe5-7a4f-46e3-bc3f-580a905e0b6c",
+      "name": "system76",
+      "region": "eu-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system76.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "f4abb2a8-eb2d-432f-a139-ca5ec48a47ae",
+      "name": "system77",
+      "region": "eu-west-2",
+      "state": "PAUSED",
+      "auxState": "RESUMING",
+      "apiEndpoint": "https://system77.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "df61c53d-b845-45d1-8d12-dad8c11ba495",
+      "name": "system78",
+      "region": "us-west-1",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system78.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "619f0031-9de6-45e9-81df-ef466e7dab4f",
+      "name": "system79",
+      "region": "eu-north-1",
+      "state": "FOO_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system79.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "25ed14e5-e0b0-4a2e-933d-625ac45e1404",
+      "name": "system80",
+      "region": "us-west-1",
+      "state": "PAUSED",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system80.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "a5f94fe7-98ac-48cb-8200-977fa0590375",
+      "name": "system81",
+      "region": "us-west-1",
+      "state": "READY",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system81.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "c5f17724-9ad5-49ae-916e-4d92b03f9e5e",
+      "name": "system82",
+      "region": "eu-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system82.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "eefddd5c-e0c2-424c-8323-dde260c85a30",
+      "name": "system83",
+      "region": "us-west-1",
+      "state": "READY",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system83.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "2e6bb861-93a2-4bc3-8089-1cad2804df15",
+      "name": "system84",
+      "region": "eu-west-1",
+      "state": "READY",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system84.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "5bd5a144-8002-4391-9516-c386745df43a",
+      "name": "system85",
+      "region": "eu-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system85.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "3.4.0-foobarbaz"
+    },
+    {
+      "id": "34c506e3-4ab3-4677-803d-9aeb93341d60",
+      "name": "system86",
+      "region": "us-west-1",
+      "state": "PAUSED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system86.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "6cb65c07-c398-4b36-9ce2-e25d67d89d42",
+      "name": "system87",
+      "region": "us-west-1",
+      "state": "READY",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system87.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "781dfa9d-5713-4247-88e7-9d2feb488b76",
+      "name": "system88",
+      "region": "eu-west-2",
+      "state": "PAUSED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system88.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "f6003df3-7262-405b-b4fa-eacfea747481",
+      "name": "system89",
+      "region": "eu-west-1",
+      "state": "READY",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system89.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "e5525a98-bb69-441d-be35-74721cb56a71",
+      "name": "system90",
+      "region": "eu-west-1",
+      "state": "PAUSED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system90.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "9ccee598-a90f-4192-9cea-98dbebfd5d3f",
+      "name": "system91",
+      "region": "eu-west-2",
+      "state": "READY",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system91.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "fce3b174-7653-4386-aaf1-1ce53e8423d5",
+      "name": "system92",
+      "region": "eu-west-2",
+      "state": "READY",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system92.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "29c6d9ff-ef6f-43c6-9657-9f263b130c65",
+      "name": "system93",
+      "region": "eu-west-2",
+      "state": "STORAGE_CREATION_FAILED",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system93.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "8134d995-f1f2-475e-ba49-b4942ab71d37",
+      "name": "system94",
+      "region": "eu-west-2",
+      "state": "PLAN_FAILED",
+      "auxState": "PAUSING",
+      "apiEndpoint": "https://system94.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "799c2b4a-5f15-4d15-bab7-ca511ee00d13",
+      "name": "system95",
+      "region": "eu-north-1",
+      "state": "RESUME_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system95.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "891580ac-9701-4f57-8510-b192b4cf8285",
+      "name": "system96",
+      "region": "eu-west-2",
+      "state": "PLAN_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system96.mydomain.com",
+      "systemType": "team",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "53622be6-f6e2-43dc-be0f-db4d3a90d26f",
+      "name": "system97",
+      "region": "us-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "TO_BE_PAUSED",
+      "apiEndpoint": "https://system97.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "2.3.2-bde194c123a"
+    },
+    {
+      "id": "5c0efbc1-8330-406f-84cc-79707c851cd1",
+      "name": "system98",
+      "region": "eu-west-1",
+      "state": "RESUME_FAILED",
+      "auxState": "TO_BE_PLANED",
+      "apiEndpoint": "https://system98.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    },
+    {
+      "id": "6a17f4d1-0228-4989-b045-daf0a8583c0f",
+      "name": "system99",
+      "region": "us-west-1",
+      "state": "PLAN_FAILED",
+      "auxState": "PLANING",
+      "apiEndpoint": "https://system99.mydomain.com",
+      "systemType": "lab",
+      "systemVersion": "1.2.3-gec414e3c24"
+    }
+  ]
+}

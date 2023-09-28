@@ -1,0 +1,11 @@
+goos: linux
+goarch: amd64
+pkg: concurrency
+cpu: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+BenchmarkNameSearch/100_Systems-8         	      20	    279079 ns/op
+BenchmarkNameSearch/1000_Systems-8        	      20	   2457161 ns/op
+BenchmarkNameSearch/10000_Systems-8       	      20	  26309887 ns/op
+BenchmarkNameSearch/100000_Systems-8      	      20	 253117799 ns/op
+BenchmarkNameSearch/1000000_Systems-8     	      20	2475314437 ns/op
+PASS
+ok  	concurrency	58.038s
